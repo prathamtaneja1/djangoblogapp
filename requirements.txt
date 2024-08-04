@@ -4,3 +4,5 @@ pillow==10.4.0
 sqlparse==0.5.1
 tzdata==2024.1
 python-decouple
+crispy-bootstrap4
+django-crispy-forms==2.3
